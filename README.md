@@ -2,9 +2,9 @@
 
 ### Cybersecurity Student
 
-- 🔭 I'm currently working on **A text editor coded entirely in python.**
+- 🔭 I'm currently working on **nothing**.
 
-- 🌱 I'm currently learning **Python**
+- 🌱 I'm currently learning **C**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
